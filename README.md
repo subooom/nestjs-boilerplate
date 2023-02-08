@@ -31,7 +31,7 @@ $ yarn
 ## Create `.env` file
 
 ```bash
-$ cp .env.example .env
+$ cp .env.example .env.local
 ```
 
 And modify the needed variables.
